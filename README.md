@@ -36,4 +36,9 @@ Chaos analysis is performed in each time window where the averaged parameter est
 The figure above shows a dynamic chaos analysis for an example seizure recording. The top panel shows the time-varying Lyapunov spectrum. The color indicates the magnitude of exponent. The bottom panel shows the maximal Lyapunov exponent as a function of time.
 
 ## Adaptation to your data
-
+The package can be applied to your dataset. Steps are as follows:
+1. Save your multi-channel iEEG/EEG/MEG data into a matlab data file with the format t x N where t is the number of time points and N is the number of channels,
+2. Name it for example Seizure_009.mat and put it in the data folder,
+3. Open run.m and change the value of 'data_file' to be the number seizure number for example 9,
+4. Firstly estimate multi-region model parameters using the keyword 'parameter estimation',
+5. Then, choose an analysis from 'stability analysis' and 'chaos analysis'.
