@@ -11,7 +11,7 @@ function main(data_file, tasks)
         disp(['Now running Stability Analysis on recording #' num2str(data_file) '...'])
 
         addpath(genpath('./stability_analysis'))
-        % stability_analysis(data_file)
+        stability_analysis(data_file)
         show_dynamic_stability(data_file)
         rmpath(genpath('./stability_analysis'))
     end
