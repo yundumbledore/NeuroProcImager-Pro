@@ -71,7 +71,7 @@ plot(0.1:1/10:length/10,countt(1:length),'LineWidth',1)
 xline([60 length/10-10],'k-',{'Seizure onset', 'Seizure offset'},'LabelOrientation','aligned','LineWidth',1, 'FontSize',13, 'LabelVerticalAlignment', 'middle')
 xlim([1, length/10])
 xlabel('Time (seconds)')
-ylabel('Number of unstable eigenmode')
+ylabel('Number ')
 set(gca,'FontSize',12)
 set(gca, 'box', 'off')
  
