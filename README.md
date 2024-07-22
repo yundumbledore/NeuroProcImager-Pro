@@ -11,7 +11,7 @@
 ## Methods
 
 ### Modelling the brain
-<!-- ![text](assets/Framework.png) -->
+<!-- ![](assets/Framework.png) -->
 The schematic of the multiple regions model fitted to 16-channel iEEG data is shown. The left side shows the device used to collect iEEG recording and an example of iEEG recording. The middle shows a neural mass model (NMM) and the right shows the multiple regions model. Each node in the multiple regions model is a NMM. Purple lines represent connections between NMMs. Each iEEG time series is fitted with a NMM. In this study, iEEG time series are used whereas our framework also applies to EEG and MEG data.
 
 Briefly, the NMM comprises three neural populations, namely excitatory (e), inhibitory (i), and pyramidal (p). The pyramidal population (in infragranular layers) driven by the external input $\mu$, excites the spiny stellate excitatory population (in granular layer IV) and inhibitory interneurons (in supragranular layers), and is excited by the spiny stellate excitatory population and inhibited by the inhibitory interneurons. Neural populations are characterized by their time varying mean (spatial, not time averaged) membrane potential, $v_n$ , which is the sum of contributing population mean post-synaptic potentials, $v_{mn}$ (pre-synaptic and post-synaptic neural populations are indexed by $m$ and $n$) and connected via synapses in which the parameter, $\alpha_{mn}$ quantifies the population averaged connection strength. $\alpha_{mn}$ is referred as the regional neurophysiological variables. In the figure above, there are four variables in a cortical region.
