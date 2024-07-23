@@ -31,5 +31,7 @@ clc
 
 %% Run showcase to show dynamic cortical stability
 data_file = 3; % choose from two iEEG files 1, 2 or 3
-tasks = ['stability analysis']; % choose from 'parameter estimation', 'stability analysis', 'chaos analysis'
+
+%% Need to run 'parameter estimation' first then choose from 'stability analysis' and 'chaos analysis'
+tasks = ['stability analysis'];
 main(data_file, tasks)
