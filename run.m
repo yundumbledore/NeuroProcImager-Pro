@@ -33,5 +33,5 @@ clc
 data_file = 3; % choose from two iEEG files 1, 2 or 3
 
 %% Need to run 'parameter estimation' first then choose from 'stability analysis' and 'chaos analysis'
-tasks = ['stability analysis'];
+tasks = ['parameter estimation'];
 main(data_file, tasks)
