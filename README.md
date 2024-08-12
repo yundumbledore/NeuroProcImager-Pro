@@ -1,10 +1,11 @@
 # NeuroProcImager-Pro
 #### Yun Zhao, Levin Kuhlmann (Monash University, Australia), Email: yun.zhao@monash.edu, levin.kuhlmann@monash.edu
 
-**NeuroProcImager-Pro** was used in manuscripts 
+**NeuroProcImager-Pro** was used in the below manuscripts 
 
-*Inference-based time-resolved cortical stability and chaos analysis for focal epileptic seizures*,
-*Cortical local dynamics, connectivity and stability correlates of global conscious states*.
+1. *Inference-based time-resolved cortical stability and chaos analysis for focal epileptic seizures*,
+
+2. *Cortical local dynamics, connectivity and stability correlates of global conscious states*.
 
 **NeuroProcImager-Pro**, an extension of **NeuroProcImager** ([Github link](https://github.com/yundumbledore/NeuroProcImager/tree/main), [Neuroimage Paper link](https://www.sciencedirect.com/science/article/pii/S1053811922007078)), explores neurophysiological underpinnings of brain functions via analyzing
 1. *dynamic cortical stability*
