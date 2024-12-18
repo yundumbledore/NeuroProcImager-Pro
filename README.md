@@ -3,7 +3,7 @@
 
 **NeuroProcImager-Pro** was used in the below manuscripts 
 
-1. *Inference-based time-resolved cortical stability and chaos analysis for focal epileptic seizures*,
+1. *Cortical stability and chaos during focal seizures: insights from inference-based modeling*,
 
 2. *Cortical local dynamics, connectivity and stability correlates of global conscious states*.
 
