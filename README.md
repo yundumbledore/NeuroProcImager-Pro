@@ -11,7 +11,7 @@
 1. *dynamic cortical stability*
 2. *dynamic cortical chaos*
 
-The below demonstrates the methods of **NeuroProcImager-Pro** and its application to analyze cerebral cortical dynamics for focal epileptic seizures. 
+In below, the methods of **NeuroProcImager-Pro** and its application to analyze cerebral cortical dynamics for focal epileptic seizures is demonstrated. Besides, a short demonstration is provided for analyzing the cortical stability for altering conscious states. 
 
 
 ## Methods
