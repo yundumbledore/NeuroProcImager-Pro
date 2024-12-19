@@ -64,5 +64,9 @@ The package can be applied to your dataset. Steps are as follows:
 4. Firstly estimate multi-region model parameters using the keyword 'parameter estimation',
 5. Then, choose an analysis from 'stability analysis' and 'chaos analysis'.
 
+Note that 
+1. The framework can determine the number of neural mass models required based on N in the data.
+2. The framework can typically run overnight on a standard CPU workstation, especially if N and t are large. The runtime depends heavily on the number of CPU cores and the size of the memory.
+
 ## Support and Help
 For all queries regarding this repository, please ask questions via the "Issues" tab, or contact me (yun.zhao@monash.edu) and I will respond **as soon as possible**.
