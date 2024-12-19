@@ -49,14 +49,14 @@ This showcase calculates and shows the time-evolving stability of the cerebral c
 To run this Case, one needs to download "regional_variable_estimates_S11.mat" from [Google Drive](https://drive.google.com/drive/folders/1i8ZqNcqIbl0AMgG1JY3nuSUMqaBCREqD?usp=sharing) and put it in the /Data folder. MEG data are pending ethical approval and are currently unavailable. The time-evolving neurophysiological variables in each region were estimated using [NeuroProcImager](https://github.com/yundumbledore/NeuroProcImager/tree/main) by fitting a neural mass model to each MEG source time series. This demonstration further estimates the inter-regional connectivity parameters, calculates the Jacobi matrices of the whole-cortex model system, and shows the time-evolving eigenvalue spectrum and the number of positive eigenvalues. This demonstration will run overnight with a standard CPU workstation. Run time highly depends on the number of the CPU cores and the size of memory.
 
 The regional variable estimates in the file "regional_variable_estimates_S11.mat" shown below.
-![](Assets/regional_variables_estimates.png)
+![](assets/regional_variables_estimates.png)
 Note that each panel in the figure shows the averaged variable estimates across **4714 cerebral cortical regions** in blue line with 95% confidence interval in green band. The level of responsiveness is denoted by solid brown line and the xenon concentration level during the experiment is denoted by brown dashed line. The responsiveness level was measured by an auditory continuous performance task. Subjects were asked to respond as quickly as possible using two separate button boxes held in each hand. Use the left and right buttons on each box correspond to a low or high frequency tone, respectively, and the left and right button boxes, respectively, for the participant to indicate the absence or presence of nausea. When they were unable to answer or answered incorrectly, the responsiveness was 0%, indicating unconsciousness, and when they were able to answer correctly, the responsiveness was 100%, indicating a conscious state.
 
 The figure below shows two snapshots of estimated connectivity between brain regions, one taken at the beginning of the experiment when the subject was conscious, and the other taken when the subject was unresponsive.
-![](Assets/inter-regional_connectivity_estimates.png)
+![](assets/inter-regional_connectivity_estimates.png)
 
 The figure below shows the **dynamic cortical stability analysis under xenon-induced asymptotic loss of consciousness**.
-![](Assets/dynamic_stability.png)
+![](assets/dynamic_stability.png)
 The bottom panel shows the time course of the eigenvalue spectrum, where dark colors indicate high density and light colors indicate low density. The top panel shows the time course of the number of positive eigenvalues, the subject's response level, and the xenon concentration level. Throughout the experiment, the number and magnitude of positive eigenvalues ​​first decreased and then increased, corresponding to the increase and then decrease of xenon concentration. The subjects responded at the beginning of the experiment where the positive eigenvalues ​​were the largest.
 
 ## Adaptation to your data
