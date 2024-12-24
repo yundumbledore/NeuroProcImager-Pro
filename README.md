@@ -5,7 +5,7 @@
 
 1. *Cortical stability and chaos during focal seizures: insights from inference-based modeling [MedRxiv link](https://www.medrxiv.org/content/10.1101/2024.11.27.24317815v1)*,
 
-2. *Cortical local dynamics, connectivity and stability correlates of global conscious states*.
+2. *Cortical local dynamics, connectivity and stability correlates of global conscious states [BioRxiv link](https://www.biorxiv.org/content/10.1101/2024.12.18.629282v1.abstract)*.
 
 **NeuroProcImager-Pro**, an extension of **NeuroProcImager** ([Github link](https://github.com/yundumbledore/NeuroProcImager/tree/main), [Neuroimage Paper link](https://www.sciencedirect.com/science/article/pii/S1053811922007078)), explores neurophysiological underpinnings of brain functions via analyzing
 1. *dynamic cortical stability*
