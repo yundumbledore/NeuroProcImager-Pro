@@ -69,4 +69,4 @@ Note that
 2. The framework can typically run overnight on a standard CPU workstation, especially if N and t are large. The runtime depends heavily on the number of CPU cores and the size of the memory.
 
 ## Support and Help
-For all queries regarding this repository, please ask questions via the "Issues" tab, or contact me (yun.zhao@monash.edu) and I will respond **as soon as possible**.
+Please raise your queries via the "Issues" tab or contact me (yun.zhao@monash.edu). I will respond **as soon as possible**.
