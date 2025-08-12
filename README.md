@@ -2,8 +2,8 @@
 #### Yun Zhao, Levin Kuhlmann (Monash University, Australia), Email: yun.zhao@monash.edu, levin.kuhlmann@monash.edu
 
 **NeuroProcImager-Pro** was used in the below manuscripts 
-
-1. *Parametric Imaging of Posterior Kinetic Model Parameter Estimates in Dynamic Total-Body PET Using Generative Consistency Models [about to submit to IEEE Transactions on Medical Imaging]*,
+1. *Cortical stability and chaos during focal seizures: insights from inference-based modeling [Journal of Neural Engineering](https://iopscience.iop.org/article/10.1088/1741-2552/add83f/meta)*,
+2. *Cortical local dynamics, connectivity and stability correlates of global conscious states [Accepted for publication at Nature Communications Biology](https://www.biorxiv.org/content/10.1101/2024.12.18.629282v1.abstract)*.
 
 **NeuroProcImager-Pro**, an extension of **NeuroProcImager** ([Github link](https://github.com/yundumbledore/NeuroProcImager/tree/main), [Neuroimage Paper link](https://www.sciencedirect.com/science/article/pii/S1053811922007078)), explores neurophysiological underpinnings of brain functions via analyzing
 1. *dynamic cortical stability*
