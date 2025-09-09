@@ -1,5 +1,5 @@
 # NeuroProcImager-Pro
-#### Yun Zhao, Levin Kuhlmann (Monash University, Australia), David Grayden (The University of Melbourne, Australia) 
+#### Yun Zhao (Monash University, Australia), Levin Kuhlmann (Monash University, Australia), David Grayden (The University of Melbourne, Australia) 
 
 Contact Email: yun.zhao@monash.edu, levin.kuhlmann@monash.edu
 
