@@ -1,5 +1,7 @@
 # NeuroProcImager-Pro
-#### Yun Zhao, Levin Kuhlmann (Monash University, Australia), Email: yun.zhao@monash.edu, levin.kuhlmann@monash.edu
+#### Yun Zhao, Levin Kuhlmann (Monash University, Australia), David Grayden (The University of Melbourne, Australia) 
+
+Contact Email: yun.zhao@monash.edu, levin.kuhlmann@monash.edu
 
 **NeuroProcImager-Pro** was used in the below manuscripts 
 1. *Cortical stability and chaos during focal seizures: insights from inference-based modeling [Journal of Neural Engineering](https://iopscience.iop.org/article/10.1088/1741-2552/add83f/meta)*,
