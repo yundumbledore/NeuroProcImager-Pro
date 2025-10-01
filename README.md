@@ -4,7 +4,7 @@
 Contact Email: yun.zhao@monash.edu
 
 **NeuroProcImager-Pro** was used in the below manuscripts 
-1. *Cortical local dynamics, connectivity and stability correlates of global conscious states [Accepted for publication at Nature Communications Biology](https://www.nature.com/articles/s42003-025-08782-6)*.
+1. *Cortical local dynamics, connectivity and stability correlates of global conscious states [Nature Communications Biology](https://www.nature.com/articles/s42003-025-08782-6)*.
 2. *Cortical stability and chaos during focal seizures: insights from inference-based modeling [Journal of Neural Engineering](https://iopscience.iop.org/article/10.1088/1741-2552/add83f/meta)*,
 
 **NeuroProcImager-Pro**, an extension of **NeuroProcImager** ([Github link](https://github.com/yundumbledore/NeuroProcImager/tree/main), [Neuroimage Paper link](https://www.sciencedirect.com/science/article/pii/S1053811922007078)), explores neurophysiological underpinnings of brain functions via analyzing
